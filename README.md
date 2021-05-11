@@ -4,9 +4,9 @@ This one is like a one stop for all the things you need to know in Natural Langu
 
 **Contents:**
 *1.Text Preprocessing (Level 1)- Tokenization,Lemmatization,StopWords,POS:*
-  - This one would contain all the basic techniques to preprocess the textual data.
+This one would contain all the basic techniques to preprocess the textual data.
 2.Text Preprocessing (Level 2)- Bag Of  Words, TFIDF, Unigrams,Bigrams,n-grams
-  - This one has all the stuff after text preprocessing that would convert this textual data to numeric data so that we can use it in models.
+This one has all the stuff after text preprocessing that would convert this textual data to numeric data so that we can use it in models.
 3.Text Preprocessing- Gensim,Word2vec,AvgWord2vec
 5.Solve Machine Learning Usecases
 6.Get the Understanding Of Artificial Neural Network
