@@ -7,13 +7,14 @@ This one is like a one stop for all the things you need to know in Natural Langu
   - Text Preprocessing (Level 1)- Tokenization,Lemmatization,StopWords,POS
   - Text Preprocessing (Level 2)- Bag Of  Words, TFIDF, Unigrams,Bigrams,n-grams
 
-- 2. Deep Learning for NLP
-  - Using Word Embeddings:
-    - Understanding Recurrent Neural Networks, LSTM,GRU.
-    - Text Preprocessing- Gensim,Word2vec,AvgWord2vec.
+- 2. Word Embedding + Deep Learning for NLP
+  - Training Word Embeddings from Scratch:
+    - Using RNNs (like LSTM,GRU) on custom Word Embeddings.
+  - Using Pre-Trained Word Embeddings.
+    - Gensim,Word2vec,AvgWord2vec.
     - GLovE, Fasttext.
-
-  - Using Transformers:
+  
+- 3. Transformers:
     - Bidirectional LSTM RNN, Encoders And Decoders, Attention Models.
     - Transformers.
     - BERT.
