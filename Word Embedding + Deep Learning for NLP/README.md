@@ -1,7 +1,6 @@
 # Word Embeddings
 1. Custom Word Embeddings
 - prepraring a custom word Embedding and then passing it into the RNN Model.
-- 
 2. Pretrained Word Embeddings: Using pre-trined Embeddings like
 -charngram.100d
 -fasttext.en.300d
